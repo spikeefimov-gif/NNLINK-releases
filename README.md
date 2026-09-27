@@ -132,6 +132,10 @@ NNLINK не требует аккаунта. Настройки, профили 
 
 **Что такое AmneziaWG 3.1?** Это параметры соединения WireGuard/AmneziaWG. NNLINK понимает соответствующий `.conf` и записи `amnezia-wg-option` в совместимом профиле.
 
+## In English
+
+NNLINK is a Windows client powered by **Mihomo**. Bring a Clash/Mihomo subscription or a local configuration, pick a server, and connect through **TUN** or **System Proxy**. Use routing rules for apps, domains and IP addresses when you do not want everything on the same route. The client also supports WireGuard/AmneziaWG 3.1 configuration import, per-subscription HWID control, and light, dark and OLED themes. **NNLINK does not provide VPN servers or require an NNLINK account.**
+
 ## Обратная связь
 
 Нашли ошибку или хотите предложить улучшение? [Создайте Issue](https://github.com/spikeefimov-gif/NNLINK-releases/issues/new/choose): укажите версию NNLINK и Windows, шаги воспроизведения и ожидаемый результат. Перед отправкой журнала или скриншота удалите ключи, ссылки подписок, HWID и другие личные данные.
