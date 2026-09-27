@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="NNLINK — ваша сеть, ваши правила">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10151b"/>
+      <stop offset="1" stop-color="#090d11"/>
+    </linearGradient>
+    <radialGradient id="aura">
+      <stop stop-color="#b7ef60" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#b7ef60" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#91b65e" stroke-opacity=".065"/>
+    </pattern>
+    <linearGradient id="route" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#c5f36b" stop-opacity=".08"/>
+      <stop offset=".58" stop-color="#c5f36b" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#c5f36b" stop-opacity=".15"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="26" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="25" fill="none" stroke="#c5f36b" stroke-opacity=".2"/>
+  <rect width="1200" height="320" rx="26" fill="url(#grid)"/>
+  <circle cx="944" cy="157" r="294" fill="url(#aura)"/>
+  <path d="M680 248H817c32 0 40-23 71-23h95c31 0 42-37 76-37h141M702 102h105c32 0 47 30 81 30h157c39 0 46-41 89-41h66M790 305h92c35 0 48-35 86-35h130c27 0 39-26 65-26h37" fill="none" stroke="url(#route)" stroke-width="2"/>
+  <path d="M846 41v58m115 35v89m125-175v96m-226 93v67" fill="none" stroke="#c5f36b" stroke-opacity=".17" stroke-width="2"/>
+  <g fill="#10151b" stroke="#c5f36b" stroke-width="2">
+    <circle cx="817" cy="248" r="12"/><circle cx="983" cy="225" r="12"/><circle cx="888" cy="132" r="12"/>
+    <circle cx="1045" cy="132" r="12"/>
+  </g>
+  <g fill="#c5f36b">
+    <circle cx="817" cy="248" r="4"/><circle cx="983" cy="225" r="4"/><circle cx="888" cy="132" r="4"/>
+    <circle cx="1045" cy="132" r="4"/>
+  </g>
+  <rect x="70" y="85" width="74" height="74" rx="19" fill="#c5f36b"/>
+  <path d="M89 140v-36h10l25 25v-25h10v36h-10l-25-25v25z" fill="#111718"/>
+  <text x="166" y="144" fill="#f4f6f4" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="750" letter-spacing="1">NNLINK</text>
+  <text x="74" y="208" fill="#c5f36b" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="650" letter-spacing="2">ВАША СЕТЬ. ВАШИ ПРАВИЛА.</text>
+  <text x="74" y="262" fill="#84918d" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="2">НЕЗАВИСИМЫЙ КЛИЕНТ ДЛЯ WINDOWS</text>
+</svg>
